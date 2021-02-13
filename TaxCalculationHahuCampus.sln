@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculationHahuCampus", "TaxCalculationHahuCampus\TaxCalculationHahuCampus.csproj", "{7DC61B3E-325D-4951-B57C-D5021E92EE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC61B3E-325D-4951-B57C-D5021E92EE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC61B3E-325D-4951-B57C-D5021E92EE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC61B3E-325D-4951-B57C-D5021E92EE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC61B3E-325D-4951-B57C-D5021E92EE49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9AD56B-BEA9-4F88-B602-612DE1D9FA99}
+	EndGlobalSection
+EndGlobal
